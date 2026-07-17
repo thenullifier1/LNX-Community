@@ -1,2 +1,11 @@
-# LNX-Community
-Legendary Network of Xtremes — Community-built streaming client
+<img width="720" height="1520" alt="Screenshot_2026-07-18-00-13-37-01" src="https://github.com/user-attachments/assets/9d36ef41-8cc6-4f00-94d6-4cc2669acf4a" />
+<img width="720" height="1520" alt="Screenshot_2026-07-18-00-13-50-43" src="https://github.com/user-attachments/assets/fc909b47-3cd0-49b6-9105-021e3301000b" />
+<img width="720" height="1520" alt="Screenshot_2026-07-18-00-14-33-19" src="https://github.com/user-attachments/assets/436eab3a-715e-42cb-b8c0-802f73a49f1e" />
+<img width="720" height="1520" alt="Screenshot_2026-07-18-00-15-01-41" src="https://github.com/user-attachments/assets/12b6ecb5-0b89-471a-93df-09600b5907a4" />
+#<img width="720" height="1520" alt="Screenshot_2026-07-17-23-43-12-49" src="https://github.com/user-attachments/assets/01168607-82d3-4703-9245-ebc5339d2e7f" />
+<img width="720" height="1520" alt="Screenshot_2026-07-17-23-44-01-35" src="https://github.com/user-attachments/assets/1d975e96-bb48-4c43-bc0c-876e17e87428" />
+<img width="720" height="1520" alt="Screenshot_2026-07-17-23-46-31-29" src="https://github.com/user-attachments/assets/a5223dc9-afd5-43e9-aec6-3a4c3cface9b" />
+<img width="720" height="1520" alt="Screenshot_2026-07-17-23-49-20-40" src="https://github.com/user-attachments/assets/6d66241d-a9d9-45d1-927b-12405f0ce983" />
+<img width="720" height="1520" alt="Screenshot_2026-07-18-00-11-36-99" src="https://github.com/user-attachments/assets/2ca8664e-7a42-4109-a3f0-1cfe121a8b5d" />
+<img width="720" height="1520" alt="Screenshot_2026-07-18-00-13-03-74" src="https://github.com/user-attachments/assets/66a5d878-2490-4ea1-9c4c-d708e1387ca9" />
+<img width="720" height="1520" alt="Screenshot_2026-07-18-00-13-25-64" src="https://github.com/user-attachments/assets/a7ce5741-5629-4032-bbf1-a294e3939f61" />
