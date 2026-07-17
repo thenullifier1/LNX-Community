@@ -29,14 +29,14 @@ LNX was forked and rebuilt for resilience, not restriction.
 2.  _Resilient Streaming_: Adaptive low-bitrate mode for bad internet, solar setups, or off-grid use
 3.  _No Gatekeepers_: No ads. No forced accounts. No tracking. No hidden paywalls. No central server that can shut you down.
 4.  _Open & Forkable_: The code is yours. Fork it. Modify it. Host your own version. You own your experience.
-5.  
+    
     **The Philosophy**
     
 This is built by QuantaOS for a parallel world, a world beyond the Matrix.  
 Where access isn’t rented. Where content isn’t locked behind 10 paywalls.  
 Where a low budget phone or device on bad WiFi can still stream like the rest of the world.
 
-    **Important Notice:**
+**Important Notice:**
      
 _LNX does not host, upload, or distribute any media files._  
 All content is loaded from publicly available third-party sources on the internet. LNX functions only as a player and aggregator.
