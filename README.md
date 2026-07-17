@@ -22,13 +22,16 @@ With LNX, you can explore and stream:
 6.  _Music & More_: Concerts, shows, and audio content
 If it’s public and streamable, LNX is designed to find it.
 
-**Built for The Extreme**  
+**Built for The Extreme**
+
 LNX was forked and rebuilt for resilience, not restriction.
 1.  _Lightweight_: Optimized to run smooth on 3GB RAM phones and low-end Android devices
 2.  _Resilient Streaming_: Adaptive low-bitrate mode for bad internet, solar setups, or off-grid use
 3.  _No Gatekeepers_: No ads. No forced accounts. No tracking. No hidden paywalls. No central server that can shut you down.
 4.  _Open & Forkable_: The code is yours. Fork it. Modify it. Host your own version. You own your experience.
-    **The Philosophy**  
+5.  
+    **The Philosophy**
+    
 This is built by QuantaOS for a parallel world, a world beyond the Matrix.  
 Where access isn’t rented. Where content isn’t locked behind 10 paywalls.  
 Where a low budget phone or device on bad WiFi can still stream like the rest of the world.
