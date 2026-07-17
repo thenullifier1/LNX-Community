@@ -32,7 +32,7 @@ LNX was forked and rebuilt for resilience, not restriction.
 
 **The Philosophy**
     
-This is built by QuantaOS for a parallel world, a world beyond the Matrix.  
+LNX is built by QuantaOS for a parallel world, a world beyond the Matrix.  
 Where access isn’t rented. Where content isn’t locked behind 10 paywalls.  
 Where a low budget phone or device on bad WiFi can still stream like the rest of the world.
 
